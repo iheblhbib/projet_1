@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,8 +30,8 @@
 
       <div class="sidebar-wrapper">
         <ul class="nav">
-          <li class="nav-item   ">
-            <a class="nav-link" href="./index.php">
+          <li class="nav-item  active ">
+            <a class="nav-link" href="./statistique.php">
               <i class="material-icons">dashboard</i>
               <p>Accueil</p>
             </a>
